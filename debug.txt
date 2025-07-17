@@ -1,0 +1,4 @@
+
+Génération de la clef partagée
+Premier (Sophie Germain) = 1276103
+Générateur = 59 ordre = 1

@@ -1,0 +1,23 @@
+./dh_crypt -i texte1.txt -o texte1_crypt.txt -m xor -k 145
+
+
+./dh_crypt -i texte2.txt -o texte2_crypt.txt -m xor -k 145
+
+
+./dh_crypt -i chien.jpg -o chien_crypt.jpg -m xor -k 145
+
+
+./dh_crypt -i chien.jpg -o chien_crypt.jpg -m xor -k 145
+
+./dh_genkey 
+
+
+.dh_genkey -o simulation.txt
+
+
+./dh_crack -i texte1_crack.txt -m c1 -k 3
+
+./dh_crack -i texte1_crack.txt -m c1 -k 3
+
+
+clé utilisé pour le crack : 123

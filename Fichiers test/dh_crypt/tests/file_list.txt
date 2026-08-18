@@ -1,0 +1,4 @@
+texte_test_1.txt
+texte_test_2.txt
+texte_test_3.txt
+chien.jpg

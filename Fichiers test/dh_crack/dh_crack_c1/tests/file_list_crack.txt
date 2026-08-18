@@ -1,0 +1,2 @@
+ringCxor.txt
+texte_anglais.txt
